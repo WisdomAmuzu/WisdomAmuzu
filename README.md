@@ -1,16 +1,14 @@
 - 👋 Hi, I'm Wisdom
-- I am a tech enthusiast
-- I'm am studying Information Technoly
+- I am a Tech Enthusiast
+- I'm am studying Information Technology
 - I've always been curious when it comes
 - to computers and how they function
-- that's the reason I am into computer
-- programming and the likes.
-- I would like to connect with others like 
-- me so we can "talk tech"
-- this account is where I upload all my codes
+- That's the reason I am into Computer Programming and the likes.
+- I would like to connect with others like me so we can "talk tech"
+- This is where I upload all my codes
 - to document my journey to become a seasoned 
-- programmer, software developer, data scientist,
-- machine learning engineer, senior lead developer
+Programmer, Software Developer, Data Scientist,
+Machine Learning Engineer, Senior Lead Developer
 
 <!---
 WisdomAmuzu/WisdomAmuzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
