@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Wisdom
 - I am a tech enthusiast
 - I'm am studying Information Technoly
-- I've always been curios when it comes
+- I've always been curious when it comes
 - to computers and how they function
 - that's the reason I am into computer
 - programming and the likes.
